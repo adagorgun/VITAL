@@ -58,5 +58,5 @@ python class_neurons_fvis.py \
 Use `run_VITAL.sh` for launching reproducible experiments from SLURM. Update the places in the script according to your environment, this is just an example script.
 
 ```bash
-sbatch run_VITAL.sh
+bash run_VITAL.sh
 ```
