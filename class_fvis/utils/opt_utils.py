@@ -16,7 +16,7 @@ from utils.utils import lr_cosine_policy, clip, denormalize
 import torchvision.transforms as Tr
 from torchvision.models.feature_extraction import create_feature_extractor
 
-IMAGENET_DIR = "/scratch/inf0/user/mparcham/ILSVRC2012/train/" # Imagenet directory
+IMAGENET_DIR = " " # Imagenet directory
 
 def sort_matching(target, input):
     """

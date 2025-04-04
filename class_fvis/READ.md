@@ -8,6 +8,8 @@ Here, we provide tools to generate interpretable visualizations for class neuron
 
 - `class_neurons_fvis.py`: Main entry point for visualizing class neurons using VITAL. Now supports automatic configuration via `get_config()` to simplify usage.
 
+Please fill the [IMAGENET_DIR](utils/opt_utils.py) variable before using the code!
+
 ---
 
 ## Configuration System
