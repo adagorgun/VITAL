@@ -52,8 +52,7 @@ Intermediate neuron visualization focuses on understanding how information is re
 
 **VITAL** improves this process by filtering neurons based on their relevance and by guiding the visualizations with real feature statistics—leading to more meaningful and interpretable representations. Instead of just maximizing neuron activation like in traditional methods, VITAL traces how much relevant information flows from the neuron toward the model’s final decision for that class and aligns the feature distribution of generated images with the feature distribution of real images that activates the target neuron the most.
 
-**Code is coming soon!**
-
+👉 You can explore the full implementation in the [./inner_fvis/](./inner_fvis/) directory.
 
 ## Concept Visualization
 
